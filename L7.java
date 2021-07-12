@@ -6,6 +6,7 @@ short var02 = 12345;
 int var03 = 1234567890;
 long var04 = 123456789000l;
 
+// 整数
 // byte -100~100
 // short -3万〜3万
 // int -20億〜20億
@@ -24,6 +25,7 @@ double var06 = 1.23456789;
 System.out.println(var05);
 System.out.println(var06);
 
+// 少数
 // floatは最後にF doubleの方が多くの桁を扱える。こちらを使うことが多い。
 
 
@@ -35,9 +37,22 @@ String var08 = "hello,World!";
 System.out.println(var07);
 System.out.println(var08);
 
-
+// 文字
 // charは一文字  シングルクォーテーション
 // StringのSは大文字 ダブルクォーテーション
+
+
+
+int var09 = 10;
+int var10 = 1;
+boolean var_bool;
+
+var_bool = (var09 > var10 );
+
+System.out.println(var_bool);
+
+// ブール型
+
 
   }
 

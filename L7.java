@@ -19,14 +19,28 @@ System.out.println(var04);
 
 
 float var05 = 1.234F;
-double var06 = 1.123456789;
+double var06 = 1.23456789;
 
 System.out.println(var05);
 System.out.println(var06);
 
 // floatは最後にF doubleの方が多くの桁を扱える。こちらを使うことが多い。
 
-}
+
+
+
+char var07 = 'c';
+String var08 = "hello,World!";
+
+System.out.println(var07);
+System.out.println(var08);
+
+
+// charは一文字  シングルクォーテーション
+// StringのSは大文字 ダブルクォーテーション
+
+  }
+
 
 
 }

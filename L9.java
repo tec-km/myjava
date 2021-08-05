@@ -28,6 +28,15 @@ class L9 {
       System.out.println(c <= e);
 
 
+// 等価は ==   等価ではない !=
+
+      int f = 10;
+      int g = 2;
+ 
+      System.out.println(f == g);
+      System.out.println(f != g);
+
+
 
 
     }

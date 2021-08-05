@@ -45,6 +45,13 @@ class L9 {
       System.out.println(i >= 5 && i <= 10);
 
 
+      int j = 8;
+      int k = 3;
+ 
+      System.out.println(j == 3 || k <= 3);
+      System.out.println(j == 1 || k <= 1);
+
+
 
     }
 

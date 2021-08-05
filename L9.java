@@ -36,6 +36,13 @@ class L9 {
       System.out.println(f == g);
       System.out.println(f != g);
 
+// 論理演算子 かつ and  &&    または or ||
+
+      int h = 8;
+      int i = 3;
+ 
+      System.out.println(h >= 5 && h <= 10);
+      System.out.println(i >= 5 && i <= 10);
 
 
 

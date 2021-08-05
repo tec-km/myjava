@@ -51,6 +51,17 @@ class L9 {
       System.out.println(j == 3 || k <= 3);
       System.out.println(j == 1 || k <= 1);
 
+// 代入演算子 = のこと。足し算や引き算を同時に行える。複合代理演算子という。xに10を足す場合 x +=10
+
+      int l = 8;
+      int m = 12;
+      int n = 20;
+
+      System.out.println(l += 10);
+      System.out.println(m += n);
+
+
+
 
 
     }

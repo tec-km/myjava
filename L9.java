@@ -71,8 +71,6 @@ class L9 {
       System.out.println(o);
       System.out.println(p);
 
-
-
     }
 
 }

@@ -60,7 +60,16 @@ class L9 {
       System.out.println(l += 10);
       System.out.println(m += n);
 
+// インクリメント 値に1を足す。 x++ ←同じ意味→  x = x+1 
+// デクリメント   値に1を引く。 y-- ←同じ意味→  y = y-1 
+      
+      int o = 8;
+      int p = 8;
+      o++;
+      p--;
 
+      System.out.println(o);
+      System.out.println(p);
 
 
 

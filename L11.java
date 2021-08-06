@@ -11,6 +11,17 @@ class L11 {
    }
 
 
+// break文 条件に当てはまった時に繰り返し処理を終了させる。
+   for(int i = 0;i <= 4; i ++){
+     if(i==3){
+       break;
+     } 
+    System.out.println(i);
+}
+
+
+
+
 
 
 

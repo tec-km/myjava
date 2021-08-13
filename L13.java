@@ -1,9 +1,19 @@
-import jdk.internal.foreign.abi.Binding.VMLoad;
 
-class L13 {
+
+class Student {
   String name = "sato";
  public void calculateAvg(int math, int english){
  System.out.println((math + english)/2);
  }
+}
+
+
+public class  L13{
+public static void main(String[]args){
+Student a001 =new Student();
+a001.name = "sato";
+ 
+System.out.println(a001.name);
+}
 
 }

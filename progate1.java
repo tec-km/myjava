@@ -25,7 +25,15 @@ class progate1 {
     // 8を3で割った時の余りを出力してください
     System.out.println( 8 % 3);
     
-
+    // "こんにちは"と"世界"を連結して出力してください
+    System.out.println ( "こんにちは" + "世界");
+    
+    // "38"と"19"を連結して出力してください
+    System.out.println ( "38" + "19");
+    
+    // 38と19を足して出力してください
+    System.out.println ( 38 + 19);
+    
 
 
 

@@ -68,9 +68,6 @@ class progate1 {
     System.out.println("Progateで" + text);
     
 
-    
-
-
 
 
 

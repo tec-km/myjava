@@ -88,6 +88,12 @@ System.out.println(7 / 2.0);
 
 /////////
 
+int number8 = 7;
+int number9 = 2;
+System.out.println(number8 / number9);
+
+// number1をdouble型にキャストし、number2で割った値を出力してください
+System.out.println((double)number8 / number9);
 
 
 
